@@ -8,7 +8,7 @@ Formada em ADS (Análise e Desenvolvimento de Sistemas) e atualmente em processo
 ![Canva](https://img.shields.io/badge/Canva-752BEC?style=for-the-badge&logo=canva&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-# 🗂️ Bibliotecas que tenho conhecimentos 
+# 🗂️ FrameWorks que tenho conhecimentos 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-563D7C?style=for-the-badge)
 ![Materialize](https://img.shields.io/badge/-materialize-E75560?style=for-the-badge)
 
